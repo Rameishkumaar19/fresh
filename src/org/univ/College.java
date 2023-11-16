@@ -11,6 +11,8 @@ public class College extends University {
 	@Override
 	public void pg() {
 		 System.out.println("pg is post graduate");
+		 System.out.println("pg is post graduate");
+		
 		
 	}
     public static void main(String[] args) {
